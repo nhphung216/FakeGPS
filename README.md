@@ -11,7 +11,6 @@ The following is needed to make sure the app runs smoothly:
 3. Make sure you run My Fake GPS Location first before running your app.
 
 ### Developed By
-------------
 
 * Phung Nguyen  - <nhphung216@gmail.com>
 
