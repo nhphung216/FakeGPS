@@ -1,3 +1,4 @@
+## My Fake GPS
 This app will overwrite your current location to a fake location so any third-party apps, websites or services will think you are there. You can use it to test the GPS in apps, find people in different cities, fly your GPS from city to city without moving, geotag a photo, share a location on social networks or show that you’re somewhere else as an excuse.
 The app has 3 modes:
 1. Fixed Mode (free): It spoofs device location to a fixed fake coordinate. You can use it to spoof your real location and pretend you are somewhere else. You can test this mode on any app that uses your fixed location.
